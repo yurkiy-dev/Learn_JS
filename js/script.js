@@ -46,3 +46,5 @@ console.log(5%2);
 //git status - посмотреть коммиты которые были сделаны в гите
 //git add -A - добавить все созданные файлы в репозиторий -a - тот же add
 //git commit -a - сделать коммит или сохранение версии для гита -m"описание коммита"
+//git remote add origin https://github.com/yurkiy-dev/Learn_JS.git - добавление на удаленный репозиторий
+//git push -u origin master - добавить изменения в ветку мастера
