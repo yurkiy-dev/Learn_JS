@@ -48,3 +48,4 @@ console.log(5%2);
 //git commit -a - сделать коммит или сохранение версии для гита -m"описание коммита"
 //git remote add origin https://github.com/yurkiy-dev/Learn_JS.git - добавление на удаленный репозиторий
 //git push -u origin master - добавить изменения в ветку мастера
+//git clone - копирование данныех из удаленного репозитория
